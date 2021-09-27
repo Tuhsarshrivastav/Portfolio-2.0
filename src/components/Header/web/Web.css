@@ -1,0 +1,16 @@
+.web {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+.web-options {
+  font-size: 20px;
+  margin-right: 16px;
+}
+.web-options a {
+  text-decoration: none;
+  color: black;
+}
+.web-options:last-child {
+  margin-left: 0px;
+}
